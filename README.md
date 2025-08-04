@@ -1,2 +1,10 @@
 # Apple-Music-Status
-애플뮤직 현재듣는노래 상태가져오기
+Get the current track playing on Apple Music
+
+## Requirements
+- A MacBook (this program uses AppleScript to fetch the current playing track from Apple Music)
+
+## Use cases
+- Discord Selfbot
+- Discord Rich Presence (RPC)
+- And more...
