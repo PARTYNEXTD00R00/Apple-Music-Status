@@ -10,5 +10,5 @@ Get the current track playing on Apple Music
 - And more...
 
 
-## Respone
+## Response
 ```are you sleeping alone again? - bixby (1:35 / 2:07)```
