@@ -8,3 +8,7 @@ Get the current track playing on Apple Music
 - Discord Selfbot
 - Discord Rich Presence (RPC)
 - And more...
+
+
+## Respone
+```are you sleeping alone again? - bixby (1:35 / 2:07)```
